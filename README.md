@@ -5,4 +5,5 @@ This portfolio is a compilation of notebooks I created for data analysis or for 
 Projects completed by me are for academic, self learning, and hobby purposes.
 
 Please check out my projects and feel free to connect with me via Linkedin!
+<br>
 `LinkedIn`: https://www.linkedin.com/in/manraj-dhindsa
